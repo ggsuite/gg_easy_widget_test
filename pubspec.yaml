@@ -20,7 +20,8 @@ dependencies:
 flutter:
 dev_dependencies:
   args: ^2.4.2
-  pana: ^0.21.45
+  gg_install_gg: ^1.0.1
+  pana: ^0.22.2
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
