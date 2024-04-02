@@ -6,7 +6,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:gg_easy_widget_test/gg_easy_widget_test.dart';
+import 'package:gg_easy_widget_test/src/gg_easy_widget_test.dart';
 
 const subwidgetFrame = Rect.fromLTWH(10, 20, 30, 40);
 
