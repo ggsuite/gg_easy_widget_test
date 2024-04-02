@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.1
+
+- Update dependencies
+
 ## 1.1.0
 
 - Update minimum SDK version
