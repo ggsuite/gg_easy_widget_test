@@ -1,16 +1,12 @@
 # Changelog
 
-## [Unreleased]
+## [1.1.1] - 2024-04-09
 
 ### Changed
 
 - Rework changelog
 - 'Github Actions Pipeline'
 - 'Github Actions Pipeline: Add SDK file containing flutter into .github/workflows to make github installing flutter and not dart SDK'
-
-## 1.1.1 - 2024-01-01
-
-- Update dependencies
 
 ## 1.1.0 - 2024-01-01
 
@@ -34,4 +30,4 @@ forwarded to `tester.press(...)`
 
 - Initial implementation.
 
-[Unreleased]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.1...HEAD
+[1.1.1]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.0...1.1.1
