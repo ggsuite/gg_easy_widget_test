@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.1.3] - 2024-04-09
 
 ### Removed
 
@@ -38,6 +38,6 @@ forwarded to `tester.press(...)`
 
 - Initial implementation.
 
-[Unreleased]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.2...HEAD
+[1.1.3]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.2...1.1.3
 [1.1.2]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.0...1.1.1
