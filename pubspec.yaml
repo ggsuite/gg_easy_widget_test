@@ -1,6 +1,6 @@
 name: gg_easy_widget_test
 description: GgEasyWidgetTest eases the tests of the widgets. It easily provides you with the following information about a widget under test.
-version: 1.1.6
+version: 1.1.7
 repository: https://github.com/inlavigo/gg_easy_widget_test
 
 environment:
