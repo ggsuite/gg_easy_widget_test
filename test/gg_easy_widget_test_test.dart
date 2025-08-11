@@ -37,8 +37,9 @@ class _SampleWidgetState extends State<SampleWidget> {
 void main() {
   group('GgEasyWidgetTest', () {
     // .........................................................................
-    testWidgets('should provide information about an widget under test',
-        (WidgetTester tester) async {
+    testWidgets('should provide information about an widget under test', (
+      WidgetTester tester,
+    ) async {
       // ......................................
       // Create a widget containing a subwidget
       final sampleWidgetKey = GlobalKey(debugLabel: 'sampleWidgetKey');

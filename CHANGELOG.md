@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+
+- Add .gitattributes file
+
 ## [1.1.6] - 2024-04-13
 
 ### Changed
@@ -29,6 +35,7 @@
 
 - 'Pipline: Disable cache'
 
+[Unreleased]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.6...HEAD
 [1.1.6]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.5...1.1.6
 [1.1.5]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/inlavigo/gg_easy_widget_test/compare/1.1.3...1.1.4
