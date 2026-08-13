@@ -20,6 +20,10 @@
 # is commented out by default.
 #.vscode/
 
+# Avoid committing pubspec.lock for library packages; see
+# https://dart.dev/guides/libraries/private-files#pubspeclock.
+pubspec.lock
+
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
@@ -29,6 +33,9 @@
 .pub-cache/
 .pub/
 build/
+
+# Others
+coverage
 
 # Android related
 **/android/**/gradle-wrapper.jar
@@ -73,3 +80,4 @@ build/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 /.vscode
+
