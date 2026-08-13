@@ -1,11 +1,11 @@
 name: gg_easy_widget_test
 description: GgEasyWidgetTest eases the tests of the widgets. It easily provides you with the following information about a widget under test.
-version: 1.1.7
+version: 1.2.0
 repository: https://github.com/inlavigo/gg_easy_widget_test
 
 environment:
-  sdk: ">=3.8.1<4.0.0"
-  flutter: ">=3.32.8"
+  sdk: ">=3.13.0 <4.0.0"
+  flutter: ">=3.47.0"
 
 dependencies:
   flutter:
@@ -19,7 +19,7 @@ dependencies:
 # The following section is specific to Flutter.
 flutter:
 dev_dependencies:
-  lints: ^6.0.0
+  lints: ^6.1.0
 # To add assets to your package, add an assets section, like this:
 # assets:
 #   - images/a_dot_burr.jpeg
