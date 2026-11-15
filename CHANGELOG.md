@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Migrate to the latest Dart and Flutter SDK
+
+Require Dart 3.14 and Flutter 3.50
+Upgrade dna_ggsuite to 2.0.0 and helix to 1.15.1, regenerate the DNA
+Import material_ui instead of package:flutter/material.dart
+
 ## 1.3.0 - 2026-09-02
 
 ### Changed
